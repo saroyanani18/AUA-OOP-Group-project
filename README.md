@@ -1,4 +1,4 @@
-# AUA-OOP-Group-project
+# Stock-Market-simulator-AUA-Group32
 Stock market simulator-Group 32
 This project is a small project, which was assigned for Introduction to Object-Oriented Programming class.
 It uses only Java and is mostly concentrated on Object Oriented Programming.
